@@ -2,8 +2,6 @@
 
 # House Price Prediction
 
-# House Price Prediction
-
 Projeto de Machine Learning desenvolvido para **prever preços de imóveis** e comparar o desempenho de dois modelos de regressão: **Regressão Linear** e **Random Forest Regressor**.
 
 A base utilizada contém **1.460 imóveis e 81 variáveis**, incluindo características como área, qualidade da construção, garagem, porão, número de cômodos e ano de construção. A variável alvo do projeto é `SalePrice`.
