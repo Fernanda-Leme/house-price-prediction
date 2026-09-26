@@ -36,8 +36,8 @@ Também foi realizada engenharia de atributos, incluindo a criação de `HasGara
 
 | Modelo | MAPE | MAE | R² |
 |---|---:|---:|---:|
-| Regressão Linear | 12,38% | R$ 19.145 | 0,876 |
-| **Random Forest** | **11,01%** | **R$ 17.418** | **0,890** |
+| Regressão Linear | 12,38% | $ 19.145 | 0,876 |
+| **Random Forest** | **11,01%** | **$ 17.418** | **0,890** |
 
 O **Random Forest apresentou o melhor desempenho**, obtendo menor erro nas previsões e maior R².
 
