@@ -1,3 +1,7 @@
+🇺🇸 [English version](README-EN.md)
+
+# House Price Prediction
+
 # House Price Prediction
 
 Projeto de Machine Learning desenvolvido para **prever preços de imóveis** e comparar o desempenho de dois modelos de regressão: **Regressão Linear** e **Random Forest Regressor**.
